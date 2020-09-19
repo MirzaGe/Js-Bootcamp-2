@@ -1,2 +1,2 @@
 # js-bootcamp
- Learning Modern JavaScript with Bootcamp.
+ Learning Modern JavaScript with Bootcamp,and practice.
